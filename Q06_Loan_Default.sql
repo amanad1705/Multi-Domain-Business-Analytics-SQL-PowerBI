@@ -1,0 +1,4 @@
+-- Q06 - Loan Default / Risk Analysis
+-- STATUS: The source script contains only `0` for this query.
+-- The actual loan-default analysis query was not provided.
+-- Add the verified SELECT query here when it is ready.
